@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shan 👋
 
-<!--
-**shanmughapriyans/shanmughapriyans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Currently learning Data Structures & Algorithms in Java  
+🚀 Building projects using Firebase & Web Tech  
+📈 Goal: Become internship-ready in 6 months  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Working On
+- Solving DSA problems daily
+- Building real-world projects
+- Improving problem solving skills
+
+---
+
+## 🛠 Tech Stack
+Java | Firebase | HTML | CSS | Git | GitHub
+
+---
