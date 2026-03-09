@@ -15,6 +15,6 @@
 ---
 
 ## 🛠 Tech Stack
-Java | Firebase | HTML | CSS | Git | GitHub
+Java | Firebase | HTML | CSS | Git | GitHub | MongoDB | Express | node.js | Javascript | MERN
 
 ---
